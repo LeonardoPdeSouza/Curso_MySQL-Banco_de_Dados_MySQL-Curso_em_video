@@ -1,0 +1,114 @@
+# Usa o banco de dado
+USE cadastro;
+
+# Descreve tabela / DESC
+DESCRIBE pessoas;
+DESCRIBE gafanhotos;
+DESCRIBE cursos;
+
+# Mostra banco de dados
+SHOW DATABASES;
+
+# Mostrar tabelas
+SHOW TABLES;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
